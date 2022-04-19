@@ -2,6 +2,7 @@ let btn = document.getElementById('connectBut')
     var port, textEncoder, writableStreamClosed, writer;
 
 //     async function connectSerial() {
+console.log("test....")
 console.log("test2....")
 btn.onclick = async () => {
    
